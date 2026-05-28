@@ -12,7 +12,6 @@ Full-Stack Developer focused on building reliable APIs and shipping features tha
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
 
 **Frameworks & Libraries**
 
@@ -20,6 +19,7 @@ Full-Stack Developer focused on building reliable APIs and shipping features tha
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
 
 **Databases**
 
